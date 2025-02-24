@@ -48,10 +48,7 @@ Hello! I'm **Arya Ramandhanu**, a **Senior DevOps Engineer** with **14+ years of
 - Managed **e-commerce infrastructure** on AWS, ensuring **99.9% uptime**.  
 - Configured **NGINX load balancers and database clusters** to optimize performance.  
 - Developed Git-based deployment automation, streamlining code releases.  
-
-## 🎓 Certifications  
-- **AWS Certified Solutions Architect**  
-- **Certified Kubernetes Administrator (CKA)**  
+ 
 
 ## 📫 Contact Me  
 📧 Email: [arya.ramandhanu@gmail.com](mailto:arya.ramandhanu@gmail.com)  
