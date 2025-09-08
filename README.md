@@ -126,11 +126,6 @@ IPTables, Fail2ban, Greenbone, Cloudflare, AWS WAF
 
 ---
 
-## 🎓 Education
-* **High School** | SMAN 1 Bolo | Bima, West Nusa Tenggara, Indonesia | June 2008  
-
----
-
 ## 📫 Contact Me
 📧 Email: **arya.ramandhanu@gmail.com**  
 🔗 LinkedIn: [https://www.linkedin.com/in/arya-ramandhanu](https://www.linkedin.com/in/arya-ramandhanu)  
